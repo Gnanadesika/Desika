@@ -1,0 +1,18 @@
+GITHUB BASICS
+ 
+What is Git & GitHub?
+Git = Version control  system(local)
+GitHub = Online platform to store Git project
+
+
+COMMON SHAPES AND THEIR MEANINGS
+
+1.Rectangle -> Process/Task
+2.Diamond ->Decision
+3.Document shape -> Document
+4.Cylinder -> Database/Storage
+5.Folder shape -> Dataset/Repository
+6.Cloud Shape -> Cloud/Internet
+7.Arrous -> Connector
+8.Oval / Ellipse -> Start/End
+9.Parallelogram ->Input/Output

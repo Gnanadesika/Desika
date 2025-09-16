@@ -1,11 +1,11 @@
 GITHUB BASICS
  
-What is Git and GitHub?
-Git = Version control  system(local)
-GitHub = Online platform to store Git project
+What is Git & GitHub?
+Git = Version control system(local)
+GitHub = Online platform to store the Git project
 
 
-COMMON SHAPES & THEIR MEANINGS
+COMMON SHAPES AND THEIR MEANINGS
 
 1.Rectangle -> Process/Task
 2.Diamond ->Decision
@@ -16,4 +16,5 @@ COMMON SHAPES & THEIR MEANINGS
 7.Arrous -> Connector
 8.Oval / Ellipse -> Start/End
 9.Parallelogram ->Input/Output
+
 
